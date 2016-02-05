@@ -4,6 +4,6 @@
     "./app/**/*.{html,htm,css,js}"
   ],
   "server": { 
-    "baseDir": ["app", "node_modules"] 
+    "baseDir": ["app", "test", "node_modules"] 
    }
 }
